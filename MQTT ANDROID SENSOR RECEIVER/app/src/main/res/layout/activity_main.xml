@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:fontFamily="@font/montserrat_medium"
-        android:text="Accelerometer Sensor Data"
+        android:text="Magnetometer Sensor Data"
         android:textColor="#3BA8A3"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
